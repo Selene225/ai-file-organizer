@@ -1,7 +1,8 @@
 import os
 import shutil
 
-folder_path = input("Enter folder path:")
+import sys
+folder_path = sys.argv[1]
 for filename in os.listdir(folder_path):
     file_path = os.path.join(folder_path, filename)
 
