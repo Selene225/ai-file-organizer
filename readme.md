@@ -14,3 +14,9 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/Selene225/ai-file-organizer.git
+## Usage
+
+Run the script:
+
+```bash
+python organizer.py
