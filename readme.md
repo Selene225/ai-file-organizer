@@ -1,11 +1,16 @@
-AI File Organizer
+# AI File Organizer
 
 A simple Python tool that automatically organizes files into folders based on file type.
 
-Features
+## Features
+
 - Automatically detects file types
 - Creates folders if they do not exist
 - Moves files into categorized directories
 
-Usage
-python organizer.py
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Selene225/ai-file-organizer.git
